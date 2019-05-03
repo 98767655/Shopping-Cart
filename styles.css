@@ -1,0 +1,77 @@
+#thanos {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 99%;
+    height: 100%;
+    background-image: url(https://vignette.wikia.nocookie.net/satsuriku-no-tenshi/images/4/4d/KeyVisual%28Anime%29.jpg/revision/latest?cb=20180322002814);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+h1 {
+    text-align: center;
+    color:red;
+      box-sizing: border-BOX;
+    width: 50%;
+    margin: 25px auto;
+    padding: 25px;
+    background-color: rgba(0,255,255,0.5);
+    border-radius: 10px;
+}
+H4 {
+    text-align: center;
+    color:red;
+      box-sizing: border-box;
+    width: 50%;
+    margin: 25px auto;
+    padding: 25px;
+    background-color: rgba(0,255,255,0.5);
+    border-radius: 10px;
+    
+}
+#instructions {
+    box-sizing: border-box;
+    width: 90%;
+    margin: 25px auto;
+    padding: 25px;
+    background-color: rgba(0,255,255,0.5);
+    border-radius: 10px;
+      display: flex;
+      justify-content: space-around;
+}
+.item{
+        box-sizing: border-box;
+    width: 90%;
+    margin: 25px auto;
+    padding: 25px;
+    background-color: rgba(0,255,255,0.5);
+    border-radius: 10px;
+  display: flex;
+	justify-content: center;
+
+    }
+    
+.img-size{
+    width:120px;
+    height:120px;
+}
+p{
+    color:blue;
+    }
+.name3{
+    transform:translateY(55px);
+    transform:translatex(15px);
+    height:200px;
+    }   
+ .price2{
+    transform:translateY(55px);
+    height:200px;
+    }   
+ 
+    
+    
+    
+    
+
